@@ -74,3 +74,28 @@ option {
     cursor: pointer;
     font-size: 1.05rem;
 }
+
+.adopt-layer {
+    gap: 2rem ;
+    width: 98%;
+    height: 800px;
+    background-color: var(--bg-200);
+
+
+    border-radius: 10px;
+    display: flex;
+    
+}
+
+.adotar-pet{
+    display: flex ;
+    justify-content: center;
+    width: 30vw;
+    height: 350px;
+    gap: 2rem;
+    background-color: #459625;
+}
+
+.image-animal {
+   
+}
